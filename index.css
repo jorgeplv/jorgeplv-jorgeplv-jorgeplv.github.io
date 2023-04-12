@@ -1,0 +1,37 @@
+h1{
+    color: red;
+    text-align: center;
+    background-color: antiquewhite;
+    text-shadow: 5px 5px 10px yellow;
+}
+
+h3{
+    color:rgb(226, 174, 43);
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(0, 217, 255);
+
+}
+img{
+ 
+    display: block;
+    margin: 0px auto; 
+ }
+
+ h2{
+    color: darkorange;
+    background-color:bisque;
+    text-shadow: 5px 5px 10px rgb(221, 204, 46);
+ }
+
+ a{
+    
+        color:rgb(50, 112, 204);
+        text-shadow: 5px 5px 10px rgb(56, 194, 236);
+    
+ }
+ p{
+    text-align: center;
+}
+body{
+    background-color: rgb(78, 221, 157);
+}

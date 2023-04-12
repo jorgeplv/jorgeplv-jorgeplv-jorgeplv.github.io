@@ -1,0 +1,28 @@
+h1{
+    color:blueviolet;
+    text-align: center;
+    background-color: antiquewhite;
+    text-shadow: 5px 5px 10px rgb(57, 150, 238);
+}
+.mary{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    float: left;
+    width: 250px;
+    
+}
+
+img{
+ 
+    display: block;
+    margin: 0px auto; 
+ }
+ p{
+    text-align: center;
+    color: black;
+}
+body{
+    background-color: rgb(209, 245, 175);
+}
+
